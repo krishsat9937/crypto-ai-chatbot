@@ -1,0 +1,1 @@
+ALTER TABLE "TurnkeyUser" ADD COLUMN "sub_org_id" uuid NOT NULL;
